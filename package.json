@@ -1,0 +1,27 @@
+{
+  "name": "canvas-sequence-optimizer",
+  "version": "1.0.0",
+  "description": "A lightweight zero-dependency memory manager and preloader for high-performance canvas image sequence animations.",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "canvas",
+    "3d",
+    "sequence",
+    "gsap",
+    "scrolltrigger",
+    "performance",
+    "memory-management"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "gsap": "^3.12.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
